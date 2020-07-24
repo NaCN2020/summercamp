@@ -2,7 +2,7 @@
   "name": "file_upload",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NaCN2020.github.io/summercamp"
+  "homepage": "https://NaCN2020.github.io/summercamp",
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "@testing-library/jest-dom": "^4.2.4",
