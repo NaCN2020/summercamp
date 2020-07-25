@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/summercamp/static/css/main.86381c34.chunk.css",
+    "main.js": "/summercamp/static/js/main.79dabf44.chunk.js",
+    "main.js.map": "/summercamp/static/js/main.79dabf44.chunk.js.map",
+    "runtime-main.js": "/summercamp/static/js/runtime-main.1ec58d64.js",
+    "runtime-main.js.map": "/summercamp/static/js/runtime-main.1ec58d64.js.map",
+    "static/css/2.4c4477be.chunk.css": "/summercamp/static/css/2.4c4477be.chunk.css",
+    "static/js/2.aa7f4561.chunk.js": "/summercamp/static/js/2.aa7f4561.chunk.js",
+    "static/js/2.aa7f4561.chunk.js.map": "/summercamp/static/js/2.aa7f4561.chunk.js.map",
+    "index.html": "/summercamp/index.html",
+    "precache-manifest.a95abf616c8de9a8e9cc3067735037ae.js": "/summercamp/precache-manifest.a95abf616c8de9a8e9cc3067735037ae.js",
+    "service-worker.js": "/summercamp/service-worker.js",
+    "static/css/2.4c4477be.chunk.css.map": "/summercamp/static/css/2.4c4477be.chunk.css.map",
+    "static/css/main.86381c34.chunk.css.map": "/summercamp/static/css/main.86381c34.chunk.css.map",
+    "static/js/2.aa7f4561.chunk.js.LICENSE.txt": "/summercamp/static/js/2.aa7f4561.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ec58d64.js",
+    "static/css/2.4c4477be.chunk.css",
+    "static/js/2.aa7f4561.chunk.js",
+    "static/css/main.86381c34.chunk.css",
+    "static/js/main.79dabf44.chunk.js"
+  ]
+}
